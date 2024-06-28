@@ -79,15 +79,15 @@
   }
 
   .name{
-    @apply text-1 text-GrayishBlue mb-3 
+    @apply text-1 text-GrayishBlue mb-3 2xl:text-smaller
   }
 
   .title{
-    @apply text-3 text-darkBlue mb-3 hover:text-LimeGreen hover:cursor-pointer transition-all duration-300 ease-in-out sm:text-4
+    @apply text-3 text-darkBlue mb-3 hover:text-LimeGreen hover:cursor-pointer transition-all duration-300 ease-in-out sm:text-4 2xl:text-3
   }
 
   .section-3-para{
-    @apply text-GrayishBlue text-2 sm:text-3
+    @apply text-GrayishBlue text-2 sm:text-3 2xl:text-2
   }
 
   .icon{
