@@ -75,7 +75,7 @@
   }
 
   .section-3-img{
-    @apply rounded-t-md mb-7 w-full lg:max-w-[95%] lg:h-[300px] 2xl:h-[250px] 3xl:w-full
+    @apply rounded-t-md mb-7 w-full lg:max-w-[95%] lg:h-[300px] 2xl:h-[200px] 3xl:w-full
   }
 
   .name{
